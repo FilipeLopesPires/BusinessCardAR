@@ -30,4 +30,4 @@ How to try out the new build (Web-based, no install needed):
 
 ## Credits
 
-Thank you for trying out my AR Business Card, for any questions please contact me at fsnap@protonmail.com.
+Thank you for trying out my AR Business Card.
